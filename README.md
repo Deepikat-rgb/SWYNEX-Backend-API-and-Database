@@ -110,3 +110,7 @@ See `docs/API-TESTING.md` for sample requests and expected validation behavior.
 
 ## Notes about prices
 The API accepts and returns menu prices in rupees for easy testing. PostgreSQL stores prices as integer paise to avoid floating-point money calculations. Order totals are calculated by the backend from the saved menu prices; client-submitted totals are never trusted.
+
+------------------------
+
+*Developed as part of SWYNEX Technologies Internship – Task  .*
