@@ -73,8 +73,6 @@ PORT=5000
 DATABASE_URL=postgresql://postgres:YOUR_PASSWORD@localhost:5432/queueless_canteen
 ```
 
-Do not upload `.env` to GitHub.
-
 ### 4. Start the API
 
 ```bash
