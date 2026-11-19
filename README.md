@@ -113,4 +113,4 @@ The API accepts and returns menu prices in rupees for easy testing. PostgreSQL s
 
 ------------------------
 
-*Developed as part of SWYNEX Technologies Internship – Task  .*
+*Developed as part of SWYNEX Technologies Internship – Task 2 .*
